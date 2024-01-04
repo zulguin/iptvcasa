@@ -1,12 +1,350 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="Latino | CDF Premium" tvg-logo="" group-title="NACIONALES",Latino | CDF Premium
-http://pocitt.org:25461/dayLjohn/VGbrtet67/221176
+
 #EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png" group-title="NACIONALES",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?tecnotv
 #EXTINF:-1 tvg-id="ext" tvg-name="Vevo 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="NACIONALES",Vevo 2K
 http://pocitt.org:25461/dayLjohn/VGbrtet67/196175
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://i.paste.pics/9e8d6f93eeee68542c756fbecacf896d.png" group-title="NACIONALES",EnerGeek
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8?tecnotv
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Animal Planet (MX)" tvg-logo="https://static.epg.best/co/AnimalPlanet.co.png" group-title="47. LATINO",LAT: Animal Planet (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55689
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Animal Planet (PY)" tvg-logo="https://static.epg.best/co/AnimalPlanet.co.png" group-title="47. LATINO",LAT: Animal Planet (PY)
+http://tkosportz.live:25461/kevinbeard/3368425/55690
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Animal Planet Full HD (MX)" tvg-logo="https://static.epg.best/co/AnimalPlanet.co.png" group-title="47. LATINO",LAT: Animal Planet Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55691
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Animal Planet HD (MX)" tvg-logo="http://tvgolatino.com:8080/images/cccd61f0cf3dacc01668fe8158faf954.png" group-title="47. LATINO",LAT: Animal Planet HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55692
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central (CO)" tvg-logo="https://static.epg.best/nz/ComedyCentral.nz.png" group-title="47. LATINO",LAT: Comedy Central (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55693
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central (MX)" tvg-logo="https://static.epg.best/nz/ComedyCentral.nz.png" group-title="47. LATINO",LAT: Comedy Central (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55694
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central Full HD (CO)" tvg-logo="https://static.epg.best/nz/ComedyCentral.nz.png" group-title="47. LATINO",LAT: Comedy Central Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55695
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central Full HD (MX)" tvg-logo="http://tvgolatino.com:8080/images/c7ba962ef6bccbda17be0b53ef1c5c1f.png" group-title="47. LATINO",LAT: Comedy Central Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55696
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central HD (CO)" tvg-logo="https://static.epg.best/nz/ComedyCentral.nz.png" group-title="47. LATINO",LAT: Comedy Central HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55697
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central HD (PY) (h265)" tvg-logo="https://static.epg.best/nz/ComedyCentral.nz.png" group-title="47. LATINO",LAT: Comedy Central HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55698
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel (CO)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="47. LATINO",LAT: Discovery Channel (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55699
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel (MX)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="47. LATINO",LAT: Discovery Channel (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55700
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel (PY)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="47. LATINO",LAT: Discovery Channel (PY)
+http://tkosportz.live:25461/kevinbeard/3368425/55701
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="47. LATINO",LAT: Discovery Channel Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55702
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel Full HD (CO)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="47. LATINO",LAT: Discovery Channel Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55703
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel Full HD (MX)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="47. LATINO",LAT: Discovery Channel Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55704
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel HD (CO)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="47. LATINO",LAT: Discovery Channel HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55705
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel HD (PY) (h265)" tvg-logo="https://static.epg.best/ru/DiscoveryChannel.ru.png" group-title="47. LATINO",LAT: Discovery Channel HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55706
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Familia HD" tvg-logo="" group-title="47. LATINO",LAT: Discovery Familia HD
+http://tkosportz.live:25461/kevinbeard/3368425/55707
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H (CO)" tvg-logo="https://static.epg.best/gb/HomeandHealth.uk.png" group-title="47. LATINO",LAT: Discovery H&H (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55708
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H (MX)" tvg-logo="https://static.epg.best/gb/HomeandHealth.uk.png" group-title="47. LATINO",LAT: Discovery H&H (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55709
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/gb/HomeandHealth.uk.png" group-title="47. LATINO",LAT: Discovery H&H Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55710
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H Full HD (CO)" tvg-logo="https://static.epg.best/gb/HomeandHealth.uk.png" group-title="47. LATINO",LAT: Discovery H&H Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55711
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H Full HD (MX)" tvg-logo="https://static.epg.best/gb/HomeandHealth.uk.png" group-title="47. LATINO",LAT: Discovery H&H Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55712
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H HD (CO)" tvg-logo="https://static.epg.best/gb/HomeandHealth.uk.png" group-title="47. LATINO",LAT: Discovery H&H HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55713
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H HD (PY) (h265)" tvg-logo="https://static.epg.best/gb/HomeandHealth.uk.png" group-title="47. LATINO",LAT: Discovery H&H HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55714
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Science" tvg-logo="https://static.epg.best/ru/DiscoveryScience.ru.png" group-title="47. LATINO",LAT: Discovery Science
+http://tkosportz.live:25461/kevinbeard/3368425/55715
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Theater (CO)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="47. LATINO",LAT: Discovery Theater (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55716
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Theater (MX)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="47. LATINO",LAT: Discovery Theater (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55717
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Theater Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="47. LATINO",LAT: Discovery Theater Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55718
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Theater Full HD (CO)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="47. LATINO",LAT: Discovery Theater Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55719
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Theater Full HD (MX)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="47. LATINO",LAT: Discovery Theater Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55720
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Theater HD (PY) (h265)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="47. LATINO",LAT: Discovery Theater HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55721
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery TLC (CO)" tvg-logo="https://static.epg.best/ru/TLC.ru.png" group-title="47. LATINO",LAT: Discovery TLC (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55722
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery TLC (MX)" tvg-logo="https://static.epg.best/ru/TLC.ru.png" group-title="47. LATINO",LAT: Discovery TLC (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55723
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery TLC Full HD (CO)" tvg-logo="https://static.epg.best/ru/TLC.ru.png" group-title="47. LATINO",LAT: Discovery TLC Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55724
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery TLC Full HD (MX)" tvg-logo="https://static.epg.best/ru/TLC.ru.png" group-title="47. LATINO",LAT: Discovery TLC Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55725
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Turbo" tvg-logo="https://static.epg.best/br/DiscoveryTurbo.br.png" group-title="47. LATINO",LAT: Discovery Turbo
+http://tkosportz.live:25461/kevinbeard/3368425/55726
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Turbo FHD" tvg-logo="http://tvgolatino.com:8080/images/5c4c05433e37a8a4ce4dd872a0d899e8.png" group-title="47. LATINO",LAT: Discovery Turbo FHD
+http://tkosportz.live:25461/kevinbeard/3368425/55727
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Turbo HD (PY) (h265)" tvg-logo="https://static.epg.best/br/DiscoveryTurbo.br.png" group-title="47. LATINO",LAT: Discovery Turbo HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55728
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery World" tvg-logo="https://static.epg.best/no/DiscoveryWorld.no.png" group-title="47. LATINO",LAT: Discovery World
+http://tkosportz.live:25461/kevinbeard/3368425/55729
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery World Full HD" tvg-logo="https://static.epg.best/no/DiscoveryWorld.no.png" group-title="47. LATINO",LAT: Discovery World Full HD
+http://tkosportz.live:25461/kevinbeard/3368425/55730
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery World Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/no/DiscoveryWorld.no.png" group-title="47. LATINO",LAT: Discovery World Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55731
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery World HD (PY) (h265)" tvg-logo="https://static.epg.best/no/DiscoveryWorld.no.png" group-title="47. LATINO",LAT: Discovery World HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55732
+#EXTINF:-1 tvg-id="" tvg-name="LAT: E! Entertaiment Full HD" tvg-logo="https://static.epg.best/co/EEntertainmentAndes.co.png" group-title="47. LATINO",LAT: E! Entertaiment Full HD
+http://tkosportz.live:25461/kevinbeard/3368425/55733
+#EXTINF:-1 tvg-id="" tvg-name="LAT: E! Entertainment" tvg-logo="https://static.epg.best/nz/EEntertainment.nz.png" group-title="47. LATINO",LAT: E! Entertainment
+http://tkosportz.live:25461/kevinbeard/3368425/55734
+#EXTINF:-1 tvg-id="" tvg-name="LAT: El Gourmet (CO)" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="47. LATINO",LAT: El Gourmet (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55735
+#EXTINF:-1 tvg-id="" tvg-name="LAT: El Gourmet Full HD (CO)" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="47. LATINO",LAT: El Gourmet Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55736
+#EXTINF:-1 tvg-id="" tvg-name="LAT: El Gourmet HD (CO)" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="47. LATINO",LAT: El Gourmet HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55737
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Estrella TV HD" tvg-logo="" group-title="47. LATINO",LAT: Estrella TV HD
+http://tkosportz.live:25461/kevinbeard/3368425/55738
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Food Network (MX)" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="47. LATINO",LAT: Food Network (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55739
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Food Network (MX)  HD" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="47. LATINO",LAT: Food Network (MX)  HD
+http://tkosportz.live:25461/kevinbeard/3368425/55740
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Atlanta HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision Atlanta HD
+http://tkosportz.live:25461/kevinbeard/3368425/55741
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision East HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision East HD
+http://tkosportz.live:25461/kevinbeard/3368425/55742
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Fresno HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision Fresno HD
+http://tkosportz.live:25461/kevinbeard/3368425/55743
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Houston HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision Houston HD
+http://tkosportz.live:25461/kevinbeard/3368425/55744
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Las Vegas HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision Las Vegas HD
+http://tkosportz.live:25461/kevinbeard/3368425/55745
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Miami HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision Miami HD
+http://tkosportz.live:25461/kevinbeard/3368425/55746
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision NY HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision NY HD
+http://tkosportz.live:25461/kevinbeard/3368425/55747
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Philadelphia HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision Philadelphia HD
+http://tkosportz.live:25461/kevinbeard/3368425/55748
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Sacramento HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision Sacramento HD
+http://tkosportz.live:25461/kevinbeard/3368425/55749
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision San Antonio HD" tvg-logo="http://tvgolatino.com:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="47. LATINO",LAT: Galavision San Antonio HD
+http://tkosportz.live:25461/kevinbeard/3368425/55750
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision San Francisco HD" tvg-logo="http://tvgolatino.com:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="47. LATINO",LAT: Galavision San Francisco HD
+http://tkosportz.live:25461/kevinbeard/3368425/55751
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Sat Lake HD" tvg-logo="http://tvgolatino.com:8080/images/f26b84e3d2d131f5fcdd82e8c29b25d0.png" group-title="47. LATINO",LAT: Galavision Sat Lake HD
+http://tkosportz.live:25461/kevinbeard/3368425/55752
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision West HD" tvg-logo="http://tvgolatino.com:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="47. LATINO",LAT: Galavision West HD
+http://tkosportz.live:25461/kevinbeard/3368425/55753
+#EXTINF:-1 tvg-id="" tvg-name="LAT: HGTV en Español" tvg-logo="https://www.ipuntotv.com/IMAGES/HGTV-logo.jpg" group-title="47. LATINO",LAT: HGTV en Español
+http://tkosportz.live:25461/kevinbeard/3368425/55754
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History (CO)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="47. LATINO",LAT: History (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55755
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History (MX)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="47. LATINO",LAT: History (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55756
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History 2" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="47. LATINO",LAT: History 2
+http://tkosportz.live:25461/kevinbeard/3368425/55757
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History 2 Full HD" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="47. LATINO",LAT: History 2 Full HD
+http://tkosportz.live:25461/kevinbeard/3368425/55758
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="47. LATINO",LAT: History Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55759
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History Full HD (CO)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="47. LATINO",LAT: History Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55760
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History Full HD (MX)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="47. LATINO",LAT: History Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55761
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History HD (CO)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="47. LATINO",LAT: History HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55762
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History HD (PY) (h265)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="47. LATINO",LAT: History HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55763
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Hola TV" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="47. LATINO",LAT: Hola TV
+http://tkosportz.live:25461/kevinbeard/3368425/55764
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery (CO)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="47. LATINO",LAT: Investigation Discovery (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55765
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery (MX)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="47. LATINO",LAT: Investigation Discovery (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55766
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery (PY)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="47. LATINO",LAT: Investigation Discovery (PY)
+http://tkosportz.live:25461/kevinbeard/3368425/55767
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="47. LATINO",LAT: Investigation Discovery Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55768
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery Full HD (CO)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="47. LATINO",LAT: Investigation Discovery Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55769
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery Full HD (MX)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="47. LATINO",LAT: Investigation Discovery Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55770
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery HD (CO)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="47. LATINO",LAT: Investigation Discovery HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55771
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery HD (PY) (h265)" tvg-logo="https://static.epg.best/no/InvestigationDiscovery.no.png" group-title="47. LATINO",LAT: Investigation Discovery HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55772
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Las Estrellas" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png" group-title="47. LATINO",LAT: Las Estrellas
+http://tkosportz.live:25461/kevinbeard/3368425/55773
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Las Estrellas Europa" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png" group-title="47. LATINO",LAT: Las Estrellas Europa
+http://tkosportz.live:25461/kevinbeard/3368425/55774
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Las Estrellas Full HD" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png" group-title="47. LATINO",LAT: Las Estrellas Full HD
+http://tkosportz.live:25461/kevinbeard/3368425/55775
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Las Estrellas HD Sur" tvg-logo="https://static.epg.best/es/CanalEstrellas.es.png" group-title="47. LATINO",LAT: Las Estrellas HD Sur
+http://tkosportz.live:25461/kevinbeard/3368425/55776
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Lifetime (CO)" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="47. LATINO",LAT: Lifetime (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55777
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Lifetime (MX)" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="47. LATINO",LAT: Lifetime (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55778
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Love Nature HD" tvg-logo="https://static.epg.best/nl/LoveNature.nl.png" group-title="47. LATINO",LAT: Love Nature HD
+http://tkosportz.live:25461/kevinbeard/3368425/55779
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Mas Chic" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="47. LATINO",LAT: Mas Chic
+http://tkosportz.live:25461/kevinbeard/3368425/55780
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Mas Chic Full HD" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="47. LATINO",LAT: Mas Chic Full HD
+http://tkosportz.live:25461/kevinbeard/3368425/55781
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Mega TV" tvg-logo="" group-title="47. LATINO",LAT: Mega TV
+http://tkosportz.live:25461/kevinbeard/3368425/55782
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo (CO)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="47. LATINO",LAT: NatGeo (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55783
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo (MX)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="47. LATINO",LAT: NatGeo (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55784
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="47. LATINO",LAT: NatGeo Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55785
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Full HD (CO)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="47. LATINO",LAT: NatGeo Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55786
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Full HD (MX)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="47. LATINO",LAT: NatGeo Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55787
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo HD (CO)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="47. LATINO",LAT: NatGeo HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55788
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo HD (PY) (h265)" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="47. LATINO",LAT: NatGeo HD (PY) (h265)
+http://tkosportz.live:25461/kevinbeard/3368425/55789
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Mundo" tvg-logo="" group-title="47. LATINO",LAT: NatGeo Mundo
+http://tkosportz.live:25461/kevinbeard/3368425/55790
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Natgeo Wild (CO)" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="47. LATINO",LAT: Natgeo Wild (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55791
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Wild (MX)" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="47. LATINO",LAT: NatGeo Wild (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55792
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Wild Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="47. LATINO",LAT: NatGeo Wild Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55793
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Natgeo Wild Full HD (CO)" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="47. LATINO",LAT: Natgeo Wild Full HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55794
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Wild Full HD (MX)" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="47. LATINO",LAT: NatGeo Wild Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55795
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Natgeo Wild HD (CO)" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="47. LATINO",LAT: Natgeo Wild HD (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55796
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NBC Universo" tvg-logo="" group-title="47. LATINO",LAT: NBC Universo
+http://tkosportz.live:25461/kevinbeard/3368425/55797
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TBS (CO)" tvg-logo="https://static.epg.best/mx/TBS.mx.png" group-title="47. LATINO",LAT: TBS (CO)
+http://tkosportz.live:25461/kevinbeard/3368425/55798
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TBS HD (MX)" tvg-logo="https://static.epg.best/mx/TBS.mx.png" group-title="47. LATINO",LAT: TBS HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55799
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Boston" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Boston
+http://tkosportz.live:25461/kevinbeard/3368425/55800
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Chicago" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Chicago
+http://tkosportz.live:25461/kevinbeard/3368425/55801
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Dallas" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Dallas
+http://tkosportz.live:25461/kevinbeard/3368425/55802
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Denver" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Denver
+http://tkosportz.live:25461/kevinbeard/3368425/55803
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Fresno" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Fresno
+http://tkosportz.live:25461/kevinbeard/3368425/55804
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Harlingen" tvg-logo="http://tvgolatino.com:8080/images/253ef8263719554c24054c39cf9e7436.png" group-title="47. LATINO",LAT: Telemundo Harlingen
+http://tkosportz.live:25461/kevinbeard/3368425/55805
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Houston" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Houston
+http://tkosportz.live:25461/kevinbeard/3368425/55806
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Internacional" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Internacional
+http://tkosportz.live:25461/kevinbeard/3368425/55807
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Internacional Full HD" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Internacional Full HD
+http://tkosportz.live:25461/kevinbeard/3368425/55808
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Las Vegas" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Las Vegas
+http://tkosportz.live:25461/kevinbeard/3368425/55809
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Los Angeles" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Los Angeles
+http://tkosportz.live:25461/kevinbeard/3368425/55810
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Miami" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Miami
+http://tkosportz.live:25461/kevinbeard/3368425/55811
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo New York" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo New York
+http://tkosportz.live:25461/kevinbeard/3368425/55812
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Philadelphia" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Philadelphia
+http://tkosportz.live:25461/kevinbeard/3368425/55813
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Phoenix" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Phoenix
+http://tkosportz.live:25461/kevinbeard/3368425/55814
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo San Antonio" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo San Antonio
+http://tkosportz.live:25461/kevinbeard/3368425/55815
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo San francisco" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo San francisco
+http://tkosportz.live:25461/kevinbeard/3368425/55816
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Tampa" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Tampa
+http://tkosportz.live:25461/kevinbeard/3368425/55817
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Tucson" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="47. LATINO",LAT: Telemundo Tucson
+http://tkosportz.live:25461/kevinbeard/3368425/55818
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Tru TV (MX)" tvg-logo="https://static.epg.best/br/truTV.br.png" group-title="47. LATINO",LAT: Tru TV (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55819
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Tru TV Full HD (ARG)(Dual Audio)" tvg-logo="https://static.epg.best/br/truTV.br.png" group-title="47. LATINO",LAT: Tru TV Full HD (ARG)(Dual Audio)
+http://tkosportz.live:25461/kevinbeard/3368425/55820
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Tru TV Full HD (MX)" tvg-logo="http://tvgolatino.com:8080/images/cf9cf9de8cbba988e185eb90eacb3a6f.png" group-title="47. LATINO",LAT: Tru TV Full HD (MX)
+http://tkosportz.live:25461/kevinbeard/3368425/55821
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Albuquerque Santa Fe HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Albuquerque Santa Fe HD
+http://tkosportz.live:25461/kevinbeard/3368425/55822
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Atlanta HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Atlanta HD
+http://tkosportz.live:25461/kevinbeard/3368425/55823
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Austin HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Austin HD
+http://tkosportz.live:25461/kevinbeard/3368425/55824
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Cleveland HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Cleveland HD
+http://tkosportz.live:25461/kevinbeard/3368425/55825
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas East HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas East HD
+http://tkosportz.live:25461/kevinbeard/3368425/55826
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Fresno HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Fresno HD
+http://tkosportz.live:25461/kevinbeard/3368425/55827
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Houston HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Houston HD
+http://tkosportz.live:25461/kevinbeard/3368425/55828
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Las Vegas HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Las Vegas HD
+http://tkosportz.live:25461/kevinbeard/3368425/55829
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Miami HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Miami HD
+http://tkosportz.live:25461/kevinbeard/3368425/55830
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas NY HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas NY HD
+http://tkosportz.live:25461/kevinbeard/3368425/55831
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Philadelphia HD" tvg-logo="http://tvgolatino.com:8080/images/875b91a83182e2da070edd8f88f2104a.png" group-title="47. LATINO",LAT: Unimas Philadelphia HD
+http://tkosportz.live:25461/kevinbeard/3368425/55832
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Phoenix HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Phoenix HD
+http://tkosportz.live:25461/kevinbeard/3368425/55833
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Raleigh HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Raleigh HD
+http://tkosportz.live:25461/kevinbeard/3368425/55834
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Sacramento HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas Sacramento HD
+http://tkosportz.live:25461/kevinbeard/3368425/55835
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Salt Lake HD" tvg-logo="http://tvgolatino.com:8080/images/875b91a83182e2da070edd8f88f2104a.png" group-title="47. LATINO",LAT: Unimas Salt Lake HD
+http://tkosportz.live:25461/kevinbeard/3368425/55836
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas San Antonio HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas San Antonio HD
+http://tkosportz.live:25461/kevinbeard/3368425/55837
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas San Francisco HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas San Francisco HD
+http://tkosportz.live:25461/kevinbeard/3368425/55838
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas West HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="47. LATINO",LAT: Unimas West HD
+http://tkosportz.live:25461/kevinbeard/3368425/55839
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Albuquerque Santa Fe HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Albuquerque Santa Fe HD
+http://tkosportz.live:25461/kevinbeard/3368425/55840
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Atlanta HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Atlanta HD
+http://tkosportz.live:25461/kevinbeard/3368425/55841
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Austin HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Austin HD
+http://tkosportz.live:25461/kevinbeard/3368425/55842
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Chicago HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Chicago HD
+http://tkosportz.live:25461/kevinbeard/3368425/55843
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Cleveland HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Cleveland HD
+http://tkosportz.live:25461/kevinbeard/3368425/55844
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Dallas HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Dallas HD
+http://tkosportz.live:25461/kevinbeard/3368425/55845
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision East HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision East HD
+http://tkosportz.live:25461/kevinbeard/3368425/55846
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Fort Lauderdale HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Fort Lauderdale HD
+http://tkosportz.live:25461/kevinbeard/3368425/55847
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision HD
+http://tkosportz.live:25461/kevinbeard/3368425/55848
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Houston HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Houston HD
+http://tkosportz.live:25461/kevinbeard/3368425/55849
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Los Angeles HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Los Angeles HD
+http://tkosportz.live:25461/kevinbeard/3368425/55850
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Miami HD" tvg-logo="http://tvgolatino.com:8080/images/397117255b707a1cb80c456ad47fc4de.png" group-title="47. LATINO",LAT: Univision Miami HD
+http://tkosportz.live:25461/kevinbeard/3368425/55851
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Noticias HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Noticias HD
+http://tkosportz.live:25461/kevinbeard/3368425/55852
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision NY HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision NY HD
+http://tkosportz.live:25461/kevinbeard/3368425/55853
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Philadelphia HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Philadelphia HD
+http://tkosportz.live:25461/kevinbeard/3368425/55854
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Phoenix HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Phoenix HD
+http://tkosportz.live:25461/kevinbeard/3368425/55855
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Puerto Rico HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="47. LATINO",LAT: Univision Puerto Rico HD
+http://tkosportz.live:25461/kevinbeard/3368425/55856
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Raleigh HD" tvg-logo="http://tvgolatino.com:8080/images/397117255b707a1cb80c456ad47fc4de.png" group-title="47. LATINO",LAT: Univision Raleigh HD
+http://tkosportz.live:25461/kevinbeard/3368425/55857
+
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="NACIONALES",La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?tecnotv
 #EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png" group-title="NACIONALES",TV+
